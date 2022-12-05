@@ -1,0 +1,25 @@
+.InputEmail form{
+    width: 380px;
+    max-width: 100%;
+    position: relative;
+  }
+  .InputEmail form input:first-child{
+    display: inline-block;
+    width: 100%;
+    padding: 14px 130px 15px 15px;
+    border-radius: 30px;
+    border:2px solid #f9004d;
+    outline:none;
+    caret-color: #000;
+    font-size: 20px;
+  }
+  .InputEmail a{
+    position: absolute;
+    top:6px;
+    right: 5px;
+    display: inline-block; 
+    width: 105px;
+    padding: 10px;
+    box-shadow: 0 0 5px #000,0 0 15px #858585  ;
+     
+  }

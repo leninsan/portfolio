@@ -1,0 +1,22 @@
+.service{
+    background-color: #101010;
+    width: 100%;
+    padding: 100px 0px;
+    color: white;
+ 
+}
+.box{
+    box-sizing: border-box;
+    display:grid;
+    grid-auto-rows: 25rem;
+    grid-auto-flow: dense;
+    grid-template-columns: repeat( auto-fit,minmax(min(100%,25rem),1fr));
+    gap: 30px;
+    margin: 0 150px;
+}
+.title h2{
+    color: white;
+    font-size: 75px;
+    margin: 30px auto;
+    text-align: center;
+}

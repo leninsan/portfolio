@@ -1,0 +1,15 @@
+.NavbarBtnSubscribe{
+    background-color: #f9004d;
+    color: white;
+    border: 2px solid transparent;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 30px;
+    display: flex;   
+    align-items: center;
+    transition: transform .4s;
+    padding: 0px 10px;
+}
+.NavbarBtnSubscribe:hover{
+    transform: scale(1.2);
+}

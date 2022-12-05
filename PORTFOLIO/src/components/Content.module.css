@@ -1,0 +1,28 @@
+.content{
+ 
+    caret-color: transparent;
+    margin-left: 8% ;
+    margin-top: 5%;
+  }
+  h1{
+    color:white;
+    margin:20px 0px 20px;
+    font-size:75px;
+  }
+  h3{
+    color:white;
+    font-size:25px;
+    margin-bottom: 20px;
+  }
+  h4{
+    color:#fcfc;
+  }
+  .leninImg{
+   
+    margin: 40px;
+    
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    box-shadow:0 0 30px #f9004d; ;
+  }

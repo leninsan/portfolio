@@ -1,0 +1,33 @@
+.card {
+    
+    border-radius: 20px;
+    background-color: #191919;
+    padding: 20px 25px;
+   
+}
+.card a{
+    width: 120px;
+    padding: 10px;
+    display: block;
+    margin: 15px auto;
+
+}
+svg{
+    display: block;
+    margin: auto;
+    font-size: 100px;
+    transition: transform .4s;
+}
+svg:hover{
+    color: red;
+    transform: scale(1.2);
+}
+h5{
+    font-size: 50px;
+}
+.pra p{
+    color: #fcfc;
+    font-size: 16px;
+    line-height: 27px;
+
+}
