@@ -3,10 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"http://leninsan.github.io/portfolio",
+  "homepage": "http://leninsan.github.io",
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
