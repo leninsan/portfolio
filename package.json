@@ -6,7 +6,7 @@
   "homepage":"http://leninsan.github.io/portfolio",
   "scripts": {
     "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist",
+    "deploy":"master -d dist",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
