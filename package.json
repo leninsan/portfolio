@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy":"gh-page -d dist"
+    "deploy":"gh-pages -d dist"
   },
   "dependencies": {
     "icons": "^1.0.0",

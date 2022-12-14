@@ -11,11 +11,11 @@ export function Services(){
                 <h2>Our Services</h2>
             </div>
             <div className={styles.box}>
-                <Card icon={<HiBars3BottomLeft/>} title={"Web Development"} p={"every website should be built with two primary goals: firstly, it needs to works acroos all devices, secondly, it needs be fast as possible."}/>
+                <Card icon={<HiBars3BottomLeft/>} title={"Web Development"} frontEnd={"FrontEnd:"} p2={"Maquetado de pagina web con tecnicas de flexbox y grid para un mejor responsive."} p3={"Bootsrap"} p4={"Tailwind"} p5={"JavaScript"} p6={"React.js"}  backEnd={"BackEnd:"} p7={"Node.js"} p8={"Desarrollo de API REST"} p9={"SQL"}/>
 
-                <Card icon={<AiOutlineUser/>} title={"Web Development"} p={"every website should be built with two primary goals: firstly, it needs to works acroos all devices, secondly, it needs be fast as possible."}/>
+                <Card icon={<AiOutlineUser/>} title={"Software Development"} p={""}/>
 
-                <Card icon={<BsBell/>} title={"Web Development"} p={"every website should be built with two primary goals: firstly, it needs to works acroos all devices, secondly, it needs be fast as possible."}/>
+                <Card icon={<BsBell/>} title={"Ros Development"} p={"every website should be built with two primary goals: firstly, it needs to works acroos all devices, secondly, it needs be fast as possible."}/>
             </div>
 
         </div>
